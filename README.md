@@ -14,9 +14,18 @@ This project contains a comprehensive hospital database that includes SQL script
 
 > Dummy Data: Separate Excel files containing dummy data for all tables.
 
+> Independent Tables: Tables 1 - 7
 
-Instructions
-SQL Script:
+> Dependent Tables (Level 1) : Tables 8 - 11
+
+> Dependent Tables (Level 2) : Tables 12 - 16
+
+
+
+
+## **Instructions**
+
+#SQL Script:
 
 The SQL script provided in the document can be copied as a whole and run in any SQL workbench.
 This script will create the entire hospital database along with all the necessary tables and dummy data.
