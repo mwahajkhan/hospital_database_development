@@ -5,9 +5,13 @@
 This project contains a comprehensive hospital database that includes SQL scripts for creating tables, inserting dummy data, and executing complex queries. The project is designed to be easily replicated and tested in any SQL workbench.
 
 #Project Contents
-SQL Script File: A document with all the SQL scripts needed to create and populate the database.
-Business Document: A PDF file that outlines the business value and context of the project.
-Dummy Data: Separate Excel files containing dummy data for all tables.
+
+> SQL Script File: A document with all the SQL scripts needed to create and populate the database.
+>Business Document: A PDF file that outlines the business value and context of the project.
+> ERD: Entity Relationship Diagram, with all the primary and foreign key dependencies
+> Dummy Data: Separate Excel files containing dummy data for all tables.
+
+
 Instructions
 SQL Script:
 
