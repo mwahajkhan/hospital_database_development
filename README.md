@@ -7,8 +7,11 @@ This project contains a comprehensive hospital database that includes SQL script
 #Project Contents
 
 > SQL Script File: A document with all the SQL scripts needed to create and populate the database.
->Business Document: A PDF file that outlines the business value and context of the project.
+
+> Business Document: A PDF file that outlines the business value and context of the project.
+
 > ERD: Entity Relationship Diagram, with all the primary and foreign key dependencies
+
 > Dummy Data: Separate Excel files containing dummy data for all tables.
 
 
